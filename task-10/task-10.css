@@ -1,0 +1,48 @@
+@font-face {
+    font-family: "inter";
+    src: url(../fonts/inter.ttf);
+}
+
+body {
+    background: #050505;
+    background-image: url(image\ 91.png) ,url(Vector\ \(2\).png);
+    background-repeat: no-repeat;
+    background-position: right top ,left top;
+}
+
+* {
+    box-sizing: border-box;
+    font-family: "inter";
+}
+
+figure {
+    display: block;
+    height: 210px;
+    margin-top: 80px;
+}
+
+figcaption  {
+    font-weight: 700;
+    font-size: 26.5px;
+    color: #D6D6D6;
+    text-transform: uppercase;
+}
+
+figure img {
+    width: 1400px;
+}
+
+.pic1 {
+    margin: 59px 0 0 39px;
+}
+
+p {
+    width: 472px;
+    height: 95px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    line-height: 19.36px;
+    margin-left: 120px;
+    margin-top: 222px;
+}
